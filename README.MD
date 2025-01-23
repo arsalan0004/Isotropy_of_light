@@ -18,9 +18,26 @@ is a discrepancy, then that might lead us to think that the speed of light is no
 3. get the average redshifts for each pair of coordinates in the celestial sphere.
 4. plot the average redshifts as peaks on a sphere, with higher redshifts represented as higher peaks.
 
+#### Results 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+#### Analysis 
+1. There's a flat strip along the celestial sphere that represents a "data desert". This band corresponds to the parts of the celestial sphere that are blocked by the Milky Way. 
+2. While not visible on the plot, it is clear, by looking at the raw data, that there is not enough data to make a conclusion about the isotropy of light speed. See bullet point 2 of the "Problems with Attempt 1" section 
+
 #### Problems With attempt 1
-1. The lambda-CDM model is probably wrong. The local universe, as far as we know, is not homogenous. There are giant voids and superstructures. The universe is clumpy, not homogenous, as far as we know. 
+1. The lambda-CDM model is probably wrong. The local universe, as far as we know, is not homogenous. There are giant voids and superstructures. As far as we know, the universe is clumpy and not homogenous. 
     Therefore, we cannot assume that the average redshift of all points on the celestial sphere is the same.
 2. Even if the universe was homogenous, we don't have enough data to make any conclusions using redshift data from objects in the universe. Dividing the celestial sphere into even-sized hexagons, such 
    that each hexagon occupies 1 degree of "latitude" and 1 degree of "longitude", we find that each hexagon contains about ~10 celestial objects. We know from the Hubble Deep Field photograph that that 
    area should contain at least hundreds of thousands of objects that we can photograph. There just hasn't been enough time and resources put to categorizing and organizing data from the celestial sphere. 
+
+
+### Solution attempt 2: Using the Cosmic Microwave Background (CMB) Radiation 
+The cosmic microwave background radiation is a picture of the universe when it was very young. At this point in the universe's life, not enough time had passed for 
+gravity to create voids and superstructures. Therefore, the universe was almost homogenous. This solves the first problem encountered in attempt #1. Secondly, the redshift of the CMB has been 
+extensively documented, so we don't encounter the problem of lack of data that we saw in attempt #1.
+
+#### Problems with Attempt 2
+The differences in temperature of the CMB has been attributed to many different processes in the early universe. Therefore, we must subtract the contribution of these processes before we can consider the 
+contribution of the speed of light to the effects of redshifting. Of course, even then, the remaining differences cannot be attributed to the difference in the speed of light without corroberating evidence from a different analysis. 
