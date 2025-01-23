@@ -22,8 +22,10 @@ is a discrepancy, then that might lead us to think that the speed of light is no
 ![](https://github.com/arsalan0004/Isotropy_of_light/blob/main/graphics/result_attempt1.gif)
 
 #### Analysis 
-1. There's a flat strip along the celestial sphere that represents a "data desert". This band corresponds to the parts of the celestial sphere that are blocked by the Milky Way. 
-2. While not visible on the plot, it is clear, by looking at the raw data, that there is not enough data to make a conclusion about the isotropy of light speed. See bullet point 2 of the "Problems with Attempt 1" section 
+1. The arrow pointing up is the North pole, and the other arrow indicates East.
+2. The magnitude of the redshift is color-coded, so a red peak refers to a coordinate that contains objects that are more redshifted. 
+3. There's a flat strip along the celestial sphere that represents a "data desert". This band corresponds to the parts of the celestial sphere that are blocked by the Milky Way. 
+4. While not visible on the plot, it is clear, by looking at the raw data, that there is not enough data to make a conclusion about the isotropy of light speed. See bullet point 2 of the "Problems with Attempt 1" section 
 
 #### Problems With attempt 1
 1. The lambda-CDM model is probably wrong. The local universe, as far as we know, is not homogenous. There are giant voids and superstructures. As far as we know, the universe is clumpy and not homogenous. 
