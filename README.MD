@@ -19,7 +19,7 @@ is a discrepancy, then that might lead us to think that the speed of light is no
 4. plot the average redshifts as peaks on a sphere, with higher redshifts represented as higher peaks.
 
 #### Results 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/arsalan0004/Isotropy_of_light/blob/main/graphics/result_attempt1.gif)
 
 #### Analysis 
 1. There's a flat strip along the celestial sphere that represents a "data desert". This band corresponds to the parts of the celestial sphere that are blocked by the Milky Way. 
